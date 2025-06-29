@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 
 // 👇 Paste your actual config below from Firebase Console
 const firebaseConfig = {
-  apiKey: "AIzaSyCyz2AZnFY3lQu1fzGnY9qrT11Ur9GkPlc",
+  apiKey: "your api",
   authDomain: "tidal-axis-464315-h9.firebaseapp.com",
   projectId: "tidal-axis-464315-h9",
   storageBucket: "tidal-axis-464315-h9.firebasestorage.app",
